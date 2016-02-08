@@ -1,0 +1,15 @@
+A program for processing, visualization and classification of CT medical data in VisNow! regular field data format.
+
+Dependencies:
+OpenCV
+GLEW
+GLFW
+GLM
+
+This program also uses ImGui - it's source code is attached to this application.
+
+Building the program:
+Ensure that you have installed all required dependencies then run the attached build script.
+
+Author:
+Grzegorz Uriasz <gorbak25@gmail.com>
